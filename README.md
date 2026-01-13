@@ -23,3 +23,7 @@ Depois imprime os pagamentos de todos.
 
 ## 🛠 Tecnologias
 - Java
+## 🧩 Estrutura do projeto
+src/
+- application → interface com o usuário (Main)
+- domain → regras de negócio e modelos
